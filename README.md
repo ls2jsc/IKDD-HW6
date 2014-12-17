@@ -1,4 +1,4 @@
 IKDD-HW6
 ========
 
-Classification and Clustering of congressional voting data \n
+Classification and Clustering of congressional voting data
